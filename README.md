@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**HARSH-VARDHAN-MISHRA/HARSH-VARDHAN-MISHRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working at <a href="https://www.digiindiasolutions.com/" target="_blank" >DIGI INDIA SOLUTIONS</a>
 - 🌱 I’m currently learning advanced React patterns and performance optimization.
 - 👯 I’m looking to collaborate on open-source React projects.
