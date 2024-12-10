@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at <a href="https://www.digiindiasolutions.com/" target="_blank" >DIGI INDIA SOLUTIONS</a>
+- 🔭 I’m currently working at <a href="https://www.germanpurje.com/pages/about-us" target="_blank" >PartsKlik LLP</a>
 - 🌱 I’m currently learning advanced React patterns and performance optimization.
 - 👯 I’m looking to collaborate on open-source React projects.
 - 🤔 I’m looking for help with mastering TypeScript.
