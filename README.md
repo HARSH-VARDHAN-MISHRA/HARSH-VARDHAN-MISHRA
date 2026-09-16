@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi, I'm Harshvardhan 👋
 
-- 🔭 I’m currently working at <a href="https://www.germanpurje.com/pages/about-us" target="_blank" >PartsKlik LLP</a>
-- 🌱 I’m currently learning advanced React patterns and performance optimization.
-- 👯 I’m looking to collaborate on open-source React projects.
-- 🤔 I’m looking for help with mastering TypeScript.
-- 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: [Email](mailto:mharshvardhan40@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshvardhan-mishra07/)
+Frontend Developer specializing in **React.js, Next.js & TypeScript** — building enterprise-grade CRM, ERP, and e-commerce platforms.
 
+- 🔭 Currently building multi-module business automation platforms (order management, inventory, warehouse & dispatch) at **Partsklik LLP**
+- 🛠️ Core stack: React.js, Next.js, TypeScript, Redux/Context API, Tailwind CSS, REST & WebSocket APIs
+- 🔌 Recent work: Shopify API & Porter logistics API integrations, OCR-based document automation, real-time analytics dashboards
+- 🌱 Currently learning automated testing (Jest / React Testing Library)
+- 👯 Open to collaborating on React/Next.js open-source projects
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harshvardhan-mishra07/)
 
 
 ## 🌐 Socials:
